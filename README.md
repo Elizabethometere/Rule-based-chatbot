@@ -17,8 +17,8 @@ A simple chatbot that responds to user messages using predefined logic.. The cha
 - Download or clone the respository
 - Open 'index.html' on your browser
 
-##Project Purpose
+## Project Purpose
 - The goal of this project was to practice frontend development, chatbot logic, user interaction handeling, and structuring a simple support chatbot for a healthcare organization.
 
-##Author
+## Author
 Elizabeth Ojo Ometere
